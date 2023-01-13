@@ -1,2 +1,2 @@
 # Draw Bounding Box
-Draw bounding box around objects
+Draw YOLO bounding box around objects
